@@ -40,3 +40,4 @@ send_button.pack(pady=5)
 entry.focus()
 
 root.mainloop() 
+
