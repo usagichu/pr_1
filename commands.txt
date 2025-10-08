@@ -1,0 +1,4 @@
+ls
+cd /home/user
+ls "document with spaces.txt"
+unknown_cmd
